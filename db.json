@@ -1,0 +1,84 @@
+{
+  "Products": [
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFe1xgPnUG_eca9FfAFcF1GC0iQn3dPmhX6TXDCXNNeul1prxPDeQsLhxi8_Oaf2KaH3U&usqp=CAU",
+      "brand": "allen solly",
+      "price": 2000,
+      "description": "marron",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFe1xgPnUG_eca9FfAFcF1GC0iQn3dPmhX6TXDCXNNeul1prxPDeQsLhxi8_Oaf2KaH3U&usqp=CAU",
+      "brand": "allen solly",
+      "price": 2000,
+      "description": "marron",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkk03Nt9fs-oUwKWRRX-2SmngPQQq2E-iig&usqp=CAU",
+      "brand": "polo",
+      "price": "3000",
+      "description": "girl kid t-shirt",
+      "gender": "kids",
+      "id": 3
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkk03Nt9fs-oUwKWRRX-2SmngPQQq2E-iig&usqp=CAU",
+      "brand": "polo",
+      "price": 300,
+      "description": "girl kid t-shirt",
+      "gender": "kids",
+      "id": 4
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkk03Nt9fs-oUwKWRRX-2SmngPQQq2E-iig&usqp=CAU",
+      "brand": "polo",
+      "price": 300,
+      "description": "girl kid t-shirt",
+      "gender": "kids",
+      "id": 5
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkk03Nt9fs-oUwKWRRX-2SmngPQQq2E-iig&usqp=CAU",
+      "brand": "polo",
+      "price": 300,
+      "description": "girl kid t-shirt",
+      "gender": "kids",
+      "id": 6
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkk03Nt9fs-oUwKWRRX-2SmngPQQq2E-iig&usqp=CAU",
+      "brand": "polo",
+      "price": 300,
+      "description": "girl kid t-shirt",
+      "gender": "kids",
+      "id": 7
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkk03Nt9fs-oUwKWRRX-2SmngPQQq2E-iig&usqp=CAU",
+      "brand": "polo",
+      "price": 300,
+      "description": "girl kid t-shirt",
+      "gender": "kids",
+      "id": 8
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkk03Nt9fs-oUwKWRRX-2SmngPQQq2E-iig&usqp=CAU",
+      "brand": "polo",
+      "price": 300,
+      "description": "girl kid t-shirt",
+      "gender": "kids",
+      "id": 9
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkk03Nt9fs-oUwKWRRX-2SmngPQQq2E-iig&usqp=CAU",
+      "brand": "polo",
+      "price": 300,
+      "description": "girl kid t-shirt",
+      "gender": "kids",
+      "id": 10
+    }
+  ]
+}
